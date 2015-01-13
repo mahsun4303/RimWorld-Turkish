@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Various -->
@@ -131,12 +131,12 @@
 	<PlantVerb>Dikmek</PlantVerb>
 	<RecruitmentDifficulty>Recruitment difficulty</RecruitmentDifficulty>
 	<PrisonerGetsFood>Yemek alır</PrisonerGetsFood>
-	<DoctorsCare>Doktorlar ilgilenir./DoctorsCare>
+	<DoctorsCare>Doktorlar ilgilenir.</DoctorsCare>
 	<PrisonerGetsMedicine>İlaç alır.</PrisonerGetsMedicine>
 	<ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
 	<PrisonerNoInteraction>Etkileşim yok</PrisonerNoInteraction>
 	<PrisonerFriendlyChat>Arkadaşça konuşma</PrisonerFriendlyChat>
-	<PrisonerMildBeating>Hafif dayak/PrisonerMildBeating>
+	<PrisonerMildBeating>Hafif dayak</PrisonerMildBeating>
 	<PrisonerViciousBeating>Şiddetli dayak</PrisonerViciousBeating>
 	<PrisonerExecution>İdam</PrisonerExecution>
 	<Equipment>Teçhizat</Equipment>
@@ -164,7 +164,7 @@
 	<WholeBody>Tüm vücut</WholeBody>
 	<RenameColonist>Kolonicinin ismini değiştir</RenameColonist>
 	<DataProcessing>Veri işleniyor</DataProcessing>
-	<Communication>İletişim/Communication>
+	<Communication>İletişim</Communication>
 	<AffectsLower>Etki</AffectsLower>
 	<BleedingRate>Kanama oranı</BleedingRate>
 	<HealthOverview>Genel Bakış</HealthOverview>
