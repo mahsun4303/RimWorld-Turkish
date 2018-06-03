@@ -369,12 +369,12 @@ HECAP mermurlara rüşvet vermiş,emrindekinlerinin sadakatını sağlamlaştır
 	<Torturer24>
 		<title>İşkenceci</title>
 		<titleShort>İşkenceci</titleShort>
-		<desc>Working for a tyrannical monarch on a medieval world, NAME earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with NAME's smile scarred permanently into their nightmares.</desc>
+		<desc>NAME acımasız bir hükümdarın yönetiminde bir krallıkta 'uzlaşma' ustası olarak nam salmıştı.Zindanlara giren herkes sırlarından uzak ve NAME'in gülümsemesi kabuslarına kalıcı olarak işlenmiş olurlardı.</desc>
 	</Torturer24>
 	<ConstructionEngineer77>
-		<title>Construction engineer</title>
-		<titleShort>Builder</titleShort>
-		<desc>NAME was a construction worker on a midworld. HECAP lead a team which built everything from office blocks to cathedrals.
+		<title>İnşaat Mühendisi</title>
+		<titleShort>Usta</titleShort>
+		<desc>NAME bir inşaat ustasıydı. HECAP ofislerden katedrallere herşeyi yapan bir grubu yönetti.
 
 HISCAP busy job and numerous nearby fast-food outlets meant HE never cooked for HIMself.</desc>
 	</ConstructionEngineer77>
